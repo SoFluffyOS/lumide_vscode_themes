@@ -1,0 +1,19 @@
+id: lumide_vscode_themes
+name: VSCode Themes
+description: >
+  VSCode Themes plugin for the Lumide IDE.
+entry_point: 'bin/main.dart'
+publisher: lumide
+
+contributes:
+  themes:
+    - id: vscode-modern-dark
+      label: VSCode Modern Dark
+      uiTheme: dark
+      path: assets/themes/modern-dark.json
+    - id: vscode-modern-light
+      label: VSCode Modern Light
+      uiTheme: light
+      path: assets/themes/modern-light.json
+
+permissions: []
