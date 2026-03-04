@@ -4,6 +4,10 @@ A collection of standard VS Code themes imported for the Lumide IDE.
 
 This plugin provides the familiar and beloved VS Code modern themes, allowing you to use exactly the same colors and semantics you are used to.
 
+|Modern Dark|Modern Light|
+|-|-|
+|<img width="1392" height="832" alt="image" src="https://github.com/user-attachments/assets/8a6bee5f-eb6d-4375-8d3f-8600c6ca0c95" />|<img width="1392" height="832" alt="image" src="https://github.com/user-attachments/assets/8fb23e8d-d6ee-46c6-985e-e4ddb124f2e7" />|
+
 ## Features
 
 - **Standard Palettes:** Exact matches to the VS Code standard light and dark color schemes, including editor backgrounds, UI grays, and diff colors.
