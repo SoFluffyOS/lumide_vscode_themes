@@ -1,0 +1,15 @@
+name: lumide_vscode_themes
+description: "A collection of standard VS Code themes imported for the Lumide IDE, including Modern Light and Modern Dark."
+version: 1.0.0
+homepage: https://lumide.dev
+repository: https://github.com/SoFluffyOS/lumide_vscode_themes
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  lumide_api: ^0.9.0
+
+dev_dependencies:
+  test:
+  lints: ^6.0.0
