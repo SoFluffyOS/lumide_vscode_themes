@@ -1,31 +1,44 @@
-# Lumide VSCode Themes
+# lumide_vscode_themes
 
-A collection of standard VS Code themes imported for the Lumide IDE.
+[![pub package](https://img.shields.io/pub/v/lumide_vscode_themes.svg)](https://pub.dev/packages/lumide_vscode_themes) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Powered by SoFluffy](https://img.shields.io/badge/Powered%20by-SoFluffy-orange)](https://sofluffy.io)
 
-This plugin provides the familiar and beloved VS Code modern themes, allowing you to use exactly the same colors and semantics you are used to.
+The official collection of standard VS Code themes for [Lumide IDE](https://lumide.dev).
 
-|Modern Dark|Modern Light|
-|-|-|
-|<img width="1392" height="832" alt="image" src="https://github.com/user-attachments/assets/8a6bee5f-eb6d-4375-8d3f-8600c6ca0c95" />|<img width="1392" height="832" alt="image" src="https://github.com/user-attachments/assets/8fb23e8d-d6ee-46c6-985e-e4ddb124f2e7" />|
+`lumide_vscode_themes` brings the familiar and beloved VS Code modern themes to Lumide, ensuring you can use the same high-quality color palettes and token semantics you're accustomed to.
+
+## Themes Included
+
+| Theme Name | Preview |
+|---|---|
+| **VSCode Modern Dark** | ![Preview](https://github.com/user-attachments/assets/8a6bee5f-eb6d-4375-8d3f-8600c6ca0c95) |
+| **VSCode Modern Light** | ![Preview](https://github.com/user-attachments/assets/8fb23e8d-d6ee-46c6-985e-e4ddb124f2e7) |
 
 ## Features
 
-- **Standard Palettes:** Exact matches to the VS Code standard light and dark color schemes, including editor backgrounds, UI grays, and diff colors.
-- **Modern Themes:** Includes both `Modern Light` and `Modern Dark` themes.
-- **Accurate Syntax Highlighting:** Retains the exact token colors from VS Code to ensure semantics look identical.
-- **No Performance Impact:** These are purely static data themes loaded instantly when selected.
+### ✨ Faithful Reproduction
+- **Standard Palettes**: Exact hex-code matches for editor backgrounds, UI grays, and diff highlights.
+- **Accurate Syntax**: Tokens colors are ported directly to maintain semantic consistency.
+- **Modern Semantics**: Fully compatible with Lumide's theme engine, supporting high-contrast mode and dynamic UI adjustments.
+
+### ⚡ Integrated Experience
+- **Zero Overhead**: Static theme definitions translate to instant load times.
+- **Native UI**: Integrates seamlessly with Lumide's command palette and settings.
 
 ## Installation
 
 This is a Lumide plugin. In most cases, you can enable it directly from the Lumide Plugin Marketplace.
 
-If you are developing or sideloading the plugin:
-
-1. Clone the repository or download the package.
-2. Go to Plugins -> Load Local Plugin.
-3. Select this plugin folder.
+For manual installation or development:
+1. Clone the repository.
+2. Load as a local plugin via **Plugins → Load Local Plugin** in Lumide.
 
 ## License
 
 - The package source code is licensed under the **MIT License**.
-- Based on the standard VS Code Themes by Microsoft, licensed under the **MIT License**.
+- Based on the standard VS Code Themes by Microsoft, also under the **MIT License**.
+
+---
+
+Built with ❤️ by [SoFluffy](https://sofluffy.io).
+
+## Happy Coding 🦊
