@@ -65,12 +65,33 @@
     "number": "#098658",
     "comment": "#008000",
     "type": "#267F99",
+    "class": "#267F99",
+    "enum": "#267F99",
+    "interface": "#267F99",
+    "struct": "#267F99",
     "function": "#795E26",
     "variable": "#001080",
-    "annotation": "#0000FF",
+    "property": "#001080",
+    "typeParameter": "#267F99",
+    "staticMethod": {
+      "foreground": "#795E26",
+      "fontStyle": "italic"
+    },
+    "staticProperty": {
+      "foreground": "#001080",
+      "fontStyle": "italic"
+    },
+    "readonlyProperty": "#0070C1",
+    "regexp": "#811F3F",
+    "documentationComment": {
+      "foreground": "#008000",
+      "fontStyle": "italic"
+    },
+    "escapeSequence": "#EE0000",
+    "annotation": "#267F99",
     "operator": "#000000",
     "punctuation": "#000000",
-    "constant": "#0000FF",
+    "constant": "#0070C1",
     "plain": "#000000"
   }
 }
