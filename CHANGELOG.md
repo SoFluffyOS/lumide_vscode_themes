@@ -1,3 +1,6 @@
+## 1.1.0 (2026-07-27)
+* 🎨 Refine Modern theme colors
+
 ## 1.0.1 (2026-03-29)
 
 ### ⬆️ Upgrade lumide_api
